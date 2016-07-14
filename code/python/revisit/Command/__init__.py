@@ -1,3 +1,7 @@
+"""
+http://gameprogrammingpatterns.com/command.html
+"""
+
 import before 
 import after
 
