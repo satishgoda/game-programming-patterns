@@ -1,6 +1,6 @@
 from actions import jump, fireGun, swapWeapon, lurchIneffectively
 
-from keys import BUTTON_X, BUTTON_Y, BUTTON_A, BUTTON_B
+from keys import BUTTON_X, BUTTON_Y, BUTTON_A, BUTTON_B, isPressed
 
 
 class InputHandler(object):
